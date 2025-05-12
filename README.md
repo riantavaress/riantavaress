@@ -19,11 +19,7 @@
 
 ### Sobre mim:
 
-Sou uma pessoa focada, com facilidade de aprendizado e sempre buscando evoluir.  
-Atualmente trabalhando fora da área de tecnologia, mas em constante evolução e aprimorando conhecimentos para ingressar na área de Desenvolvimento de Software.
-
-Meu objetivo é me tornar um desenvolvedor e atuar em projetos que me permitam evoluir como profissional e contribuir com soluções eficientes.
-
+Sou Técnico em Eletrotécnica e Automação Industrial, e atualmente estou cursando Engenharia da Computação, além de realizar uma formação online em Desenvolvimento Front-End pela Alura. Com o objetivo de complementar meus conhecimentos e construir uma base sólida para atuar na área de tecnologia, estou constantemente em busca de oportunidades para aplicar meus conhecimentos, desenvolver habilidades práticas e contribuir para projetos inovadores, especialmente no desenvolvimento web Front-End. Embora meu foco atual esteja no Front-End, tenho interesse em expandir minha atuação para o Back-End, com o objetivo de me tornar um profissional Full Stack. Conheço minhas capacidades, minha dedicação e meu potencial para evoluir continuamente no setor de TI.
 ---
 
 ### Redes sociais:
